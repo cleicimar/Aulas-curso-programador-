@@ -4,3 +4,8 @@ senha padrão
 spiderzod@gmail.com
 
 GIT comandos.
+
+git add .
+git commit -m ""
+git push
+git status
